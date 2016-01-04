@@ -1,0 +1,35 @@
+html{
+	background-color: white;
+}
+body{
+	background-color: black;
+	padding-left:5px;
+	padding-right: 2px;
+	width: 690px;
+}
+	h1{
+		color: white;
+	}
+	p{
+		color: white;
+	}
+	img#ww{
+		height: 235px;
+		display: inline-block;
+		border: solid gray 3px; 
+	}
+	img#ee{
+		height: 228px;
+		display: inline-block;
+		border: solid gray 3px;
+	}
+	img#rr{
+		height: 235px;
+		display: inline-block;
+		border: solid gray 3px;
+	}
+	img#tt{
+		height: 228px;
+		display: inline-block;
+		border: solid gray 3px;
+	}
